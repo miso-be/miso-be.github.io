@@ -27,5 +27,6 @@ body {
 
 /* 이미지를 중앙으로 */
 img {
+    max-width: 100%;
     vertical-align: middle;
 } 
